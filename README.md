@@ -213,8 +213,7 @@ The model was successfully run on an external test video, and the predicted outp
 Weapon-Detection-System-Using-YOLOv8/
 ├── README.md
 ├── requirements.txt
-├── train_weapon_detection.ipynb
-├── inference_weapon_detection.ipynb
+├── weapon_detection.ipynb
 ├── best.pt
 └── sample_outputs/
     ├── confusion_matrix.png
